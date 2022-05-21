@@ -5,5 +5,5 @@ names = names_string.split(", ")
 
 #Write your code below this line 👇
 import random
-randomName=names[random.randint(1,len(names))]
+randomName=names[random.randint(0,len(names)-1)]
 print(randomName," is going to buy the meal today!")
