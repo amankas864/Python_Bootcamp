@@ -24,3 +24,4 @@ print(a)
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
 
 print(''.join(random.sample(a,len(a))))
+# random.shuffle(list(a))
