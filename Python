@@ -1,4 +1,0 @@
-f"{dsf}" #string
-round()
-.lower()
-.count('')
